@@ -47,3 +47,15 @@ git clone https://github.com/yourusername/used-car-price-analysis
 cd used-car-price-analysis
 pip install -r requirements.txt
 jupyter notebook
+
+----
+
+## 👤 Author
+
+*Arpit*
+Aspiring Data Analyst
+
+LinkedIn: www.linkedin.com/in/
+arpit-amale-89796a27b
+GitHub: https://github.com/ArpitAmale
+Email: arpitamale100@gmail.com
