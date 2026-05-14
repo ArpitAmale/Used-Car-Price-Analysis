@@ -43,7 +43,7 @@ Which brands, fuel types, and conditions hold the best value?
 Source: [CarDekho — Kaggle](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho)
 
 ## 🚀 How to Run
-git clone https://github.com/yourusername/used-car-price-analysis
+git clone https://github.com/ArpitAmale/Used-Car-Price-Analysis
 cd used-car-price-analysis
 pip install -r requirements.txt
 jupyter notebook
